@@ -21,3 +21,5 @@ pub fn remove_room(){
     room::unbook_room()
     room::check_available_room()
 }
+
+pub use hotel;
